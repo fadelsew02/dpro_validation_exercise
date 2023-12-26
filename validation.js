@@ -24,6 +24,5 @@ function emailValidation() {
   window.onload = function() {
     emailValidation();
   };
-  
-  
+
   
